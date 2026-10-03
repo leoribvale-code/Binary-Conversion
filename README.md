@@ -62,7 +62,7 @@ c = (c << 1) | (binary[i] - '0');
 
 Every 8 bits represent one character, which is then printed.
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 This project helped practice several fundamental C concepts:
 
@@ -79,7 +79,7 @@ This project helped practice several fundamental C concepts:
 - Input validation
 - Basic program structure
 
-## 🚀 How to Compile
+## How to Compile
 
 You need a C compiler such as **GCC**.
 
